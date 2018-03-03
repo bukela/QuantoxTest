@@ -1,0 +1,21 @@
+loop-1:
+L
+R
+R
+S
+G loop-1
+loop-2:
+R
+G loop-2
+
+ili
+
+loop-1:
+R
+L
+L
+S
+G loop-1
+loop-2:
+L
+G loop-2
